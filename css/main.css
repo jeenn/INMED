@@ -1,3 +1,15 @@
+.navbar-default .navbar-nav>li>a {
+    color: #000000;
+}
+
 .sidebar{
   margin-top: 2.5rem;
+}
+
+.logo{
+  height: 3rem;
+  width: 3rem;
+  position: absolute;
+  left: 1rem;
+  top: 1rem; 
 }
