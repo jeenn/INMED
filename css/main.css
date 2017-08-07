@@ -6,10 +6,15 @@
   margin-top: 2.5rem;
 }
 
+#map {
+    width: 50rem;
+    height: 50rem;
+}
+
 .logo{
   height: 3rem;
   width: 3rem;
   position: absolute;
   left: 1rem;
-  top: 1rem; 
+  top: 1rem;
 }
