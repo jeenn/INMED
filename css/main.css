@@ -11,6 +11,10 @@
     height: 50rem;
 }
 
+.gap-right {
+  margin-right: 3rem;
+}
+
 .logo{
   height: 3rem;
   width: 3rem;
